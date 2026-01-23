@@ -11,6 +11,7 @@ line-number = "relative"
 rulers = [120]
 bufferline = "multiple"
 auto-save = true
+trim-trailing-whitespace = true
 #mouse = false
 
 [editor.cursor-shape]
